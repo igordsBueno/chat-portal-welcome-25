@@ -17,7 +17,7 @@ const chatMessages = [
   {
     id: 2,
     sender: 'You',
-    content: 'I'm doing great! Just checking out this new chat app.',
+    content: "I'm doing great! Just checking out this new chat app.",
     timestamp: '10:26 AM',
     isUser: true
   },

@@ -45,6 +45,7 @@ const config: Config = {
         },
         chat: {
           blue: "#4A6CF7",
+          purple: "#6C39F3", // Added the chat-purple color
           lightPurple: "#F5F5FF",
         }
       },
