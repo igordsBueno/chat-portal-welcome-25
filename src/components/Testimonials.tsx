@@ -19,7 +19,7 @@ const testimonials = [
   {
     name: 'Emily Rodriguez',
     role: 'Small Business Owner',
-    content: 'My team has been using ChatHub for all our internal communications. It's easy to use and has improved our workflow significantly.',
+    content: "My team has been using ChatHub for all our internal communications. It's easy to use and has improved our workflow significantly.",
     rating: 4
   }
 ];
